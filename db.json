@@ -93,38 +93,6 @@
       "brand": "converse",
       "colors": ["white", "black", "red"],
       "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
-    },
-    {
-      "id": 7,
-      "title" : "КЕДЫ 1965-06",
-      "price": "6900",
-      "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb21%2F1b1sj54w0vwi78107dwe5gaob1f4qkn1.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F3c8%2Fzpg75ce2g71cs2qvv9mzs5t3yjdqzmq5.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa2d%2Fs2r87w3p8g3j1f327wi4q3qb6intgi33.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F538%2Fn5wt8im39pbkvejzd2try12t9b5nvuf9.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb92%2Fomqrl3aqkrt5s1yx7jr9qecpolmz1433.jpg&w=1920&q=75"
-      ],
-      "size":[38,39,40],
-      "brand": "converse",
-      "colors": ["black", "red"],
-      "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
-    }, 
-    {
-      "id": 8,
-      "title" : "КЕДЫ 1965-06",
-      "price": "6900",
-      "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb21%2F1b1sj54w0vwi78107dwe5gaob1f4qkn1.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F3c8%2Fzpg75ce2g71cs2qvv9mzs5t3yjdqzmq5.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa2d%2Fs2r87w3p8g3j1f327wi4q3qb6intgi33.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F538%2Fn5wt8im39pbkvejzd2try12t9b5nvuf9.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb92%2Fomqrl3aqkrt5s1yx7jr9qecpolmz1433.jpg&w=1920&q=75"
-      ],
-      "size":[38,39,40],
-      "brand": "converse",
-      "colors": ["black", "red"],
-      "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
     }
   ]
 }
