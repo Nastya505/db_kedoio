@@ -5,11 +5,9 @@
       "title" : "КЕДЫ 1965-11",
       "price": ["4999", "6000"],
       "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F8c6%2F14fcvxix0d2l75ossc6ml1fqi4eg2bz3.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa6e%2Fofwdfc9duyi6kpj7rg074chyxx51d9yf.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F1cc%2Fl23dmozza8auus6lahysh7znxjs9vz7f.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fcf4%2F8xyrmcdgvt600fkbq69eg6egxs0lv1ml.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F7e0%2Fcpusvfgstbq3kq4zj7qc6m3so0ihdj9m.jpg&w=1920&q=75"
+        "https://ibb.co/qg6f0vn",
+        "https://ibb.co/ckyKb2y",
+        "https://ibb.co/wgJhQBY"
       ],
       "size":[36,37,38,39,40],
       "brand": "converse",
@@ -18,29 +16,25 @@
     }, 
     {
       "id": 2,
-      "title" : "КЕДЫ 1965-06",
-      "price": ["6000"],
+      "title" : "Кеды 1965 OW",
+      "price": ["5700", "7900"],
       "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb21%2F1b1sj54w0vwi78107dwe5gaob1f4qkn1.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F3c8%2Fzpg75ce2g71cs2qvv9mzs5t3yjdqzmq5.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa2d%2Fs2r87w3p8g3j1f327wi4q3qb6intgi33.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F538%2Fn5wt8im39pbkvejzd2try12t9b5nvuf9.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb92%2Fomqrl3aqkrt5s1yx7jr9qecpolmz1433.jpg&w=1920&q=75"
+        "https://ibb.co/nnN32Wz",
+        "https://ibb.co/R0q36FL",
+        "https://ibb.co/Fzjfrcw"
       ],
       "size":[38,39,40],
       "brand": "converse",
-      "colors": ["black", "red"],
+      "colors": ["yellow", "red"],
       "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
     },  {
       "id": 3,
       "title" : "КЕДЫ 1965-11",
       "price": ["4999", "7900"],
       "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F8c6%2F14fcvxix0d2l75ossc6ml1fqi4eg2bz3.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa6e%2Fofwdfc9duyi6kpj7rg074chyxx51d9yf.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F1cc%2Fl23dmozza8auus6lahysh7znxjs9vz7f.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fcf4%2F8xyrmcdgvt600fkbq69eg6egxs0lv1ml.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F7e0%2Fcpusvfgstbq3kq4zj7qc6m3so0ihdj9m.jpg&w=1920&q=75"
+        "https://ibb.co/1KTfSKv",
+        "https://ibb.co/6mG0WBb",
+        "https://ibb.co/yywrwK6"
       ],
       "size":[36,37,38,39,40],
       "brand": "converse",
@@ -49,18 +43,16 @@
     },
     {
       "id": 4,
-      "title" : "КЕДЫ 1965-06",
+      "title" : "КЕДЫ 1965 UW",
       "price": ["6900"],
       "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb21%2F1b1sj54w0vwi78107dwe5gaob1f4qkn1.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F3c8%2Fzpg75ce2g71cs2qvv9mzs5t3yjdqzmq5.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa2d%2Fs2r87w3p8g3j1f327wi4q3qb6intgi33.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F538%2Fn5wt8im39pbkvejzd2try12t9b5nvuf9.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fb92%2Fomqrl3aqkrt5s1yx7jr9qecpolmz1433.jpg&w=1920&q=75"
+        "https://ibb.co/JKtzsTX",
+        "https://ibb.co/3BpzJKK",
+        "https://ibb.co/k0FfwgS"
       ],
       "size":[38,39,40],
       "brand": "converse",
-      "colors": ["black", "red"],
+      "colors": ["green", "red"],
       "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
     }, 
     {
@@ -68,11 +60,9 @@
       "title" : "КЕДЫ 1965-11",
       "price": ["4999", "6000"],
       "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F8c6%2F14fcvxix0d2l75ossc6ml1fqi4eg2bz3.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa6e%2Fofwdfc9duyi6kpj7rg074chyxx51d9yf.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F1cc%2Fl23dmozza8auus6lahysh7znxjs9vz7f.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fcf4%2F8xyrmcdgvt600fkbq69eg6egxs0lv1ml.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F7e0%2Fcpusvfgstbq3kq4zj7qc6m3so0ihdj9m.jpg&w=1920&q=75"
+        "https://ibb.co/hXWB5MW",
+        "https://ibb.co/JKtzsTX",
+        "https://ibb.co/nnN32Wz"
       ],
       "size":[36,37,38,39,40],
       "brand": "converse",
@@ -80,18 +70,16 @@
       "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
     }, {
       "id": 6,
-      "title" : "КЕДЫ 1965-11",
+      "title" : "КЕДЫ 1965-02",
       "price": ["6000"],
       "photo": [
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F8c6%2F14fcvxix0d2l75ossc6ml1fqi4eg2bz3.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fa6e%2Fofwdfc9duyi6kpj7rg074chyxx51d9yf.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F1cc%2Fl23dmozza8auus6lahysh7znxjs9vz7f.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2Fcf4%2F8xyrmcdgvt600fkbq69eg6egxs0lv1ml.jpg&w=1920&q=75",
-        "https://www.dvamyacha.ru/_next/image?url=https%3A%2F%2Fapi.dvamyacha.ru%2Fupload%2Fiblock%2F7e0%2Fcpusvfgstbq3kq4zj7qc6m3so0ihdj9m.jpg&w=1920&q=75"
+        "https://ibb.co/x2165q8",
+        "https://ibb.co/mXhYQKb",
+        "https://ibb.co/zrXmLcM"
       ],
       "size":[36,37,38,39,40],
       "brand": "converse",
-      "colors": ["white", "black", "red"],
+      "colors": ["blue", "black", "red"],
       "characteristic": "Модель 1965 — действительно культовая модель, модель с которой все начиналось. Почти сразу кеды 65-го года, засветившиеся на спортивных площадках, перекочевали в неформальную обстановку и стали встречаться повсеместно. Данная модель имеет классический баскетбольный дизайн без лишних деталей и отличается простотой и комфортом."
     }
   ]
